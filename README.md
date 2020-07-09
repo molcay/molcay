@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 📫 How to reach me: [website](https://www.tercanli.com) [twitter](https://twitter.com/molcaytercanli) [github](https://github.com/molcay) [gitlab](https://gitlab.com/molcay)
+
 <!--
 **molcay/molcay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
