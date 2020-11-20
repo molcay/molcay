@@ -2,6 +2,8 @@
 
 - 📫 How to reach me: [website](https://www.tercanli.com) [twitter](https://twitter.com/molcaytercanli) [github](https://github.com/molcay) [gitlab](https://gitlab.com/molcay)
 
+[![molcay's github stats](https://github-readme-stats.vercel.app/api?username=molcay)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **molcay/molcay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
