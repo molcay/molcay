@@ -1,7 +1,10 @@
-<h3 align="center"> Hi there 👋, I'm Olcay </h3>
+<h3> Hi there 👋, I'm Olcay </h3>
 
-### 📫 How to reach me 
-<div align="center">
+<br>
+
+<div>
+📫 How to reach me:
+<hr>  
 <a href="https://www.tercanli.com"> 
     <img src=".github/assets/images/html5.svg" width="32">
 </a>
@@ -18,6 +21,8 @@
     <img src=".github/assets/images/twitter.svg" width="32">
 </a>
 </div>
+
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=molcay" alt="molcay's GitHub Statistics">
 
