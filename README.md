@@ -1,8 +1,25 @@
-### Hi there 👋
+<h3 align="center"> Hi there 👋, I'm Olcay </h3>
 
-- 📫 How to reach me: [website](https://www.tercanli.com) [twitter](https://twitter.com/molcaytercanli) [github](https://github.com/molcay) [gitlab](https://gitlab.com/molcay)
+### 📫 How to reach me 
+<div align="center">
+<a href="https://www.tercanli.com"> 
+    <img src=".github/assets/images/html5.svg" width="32">
+</a>
+<a href="https://blog.tercanli.com"> 
+    <img src=".github/assets/images/ghost.svg" width="32">
+</a>
+<a href="https://github.com/molcay"> 
+    <img src=".github/assets/images/github.svg" width="32">
+</a>
+<a href="https://gitlab.com/molcay"> 
+    <img src=".github/assets/images/gitlab.svg" width="32">
+</a>
+<a href="https://twitter.com/molcaytercanli"> 
+    <img src=".github/assets/images/twitter.svg" width="32">
+</a>
+</div>
 
-[![molcay's github stats](https://github-readme-stats.vercel.app/api?username=molcay)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=molcay" alt="molcay's GitHub Statistics">
 
 <!--
 **molcay/molcay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
